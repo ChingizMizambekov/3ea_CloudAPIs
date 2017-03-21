@@ -30,7 +30,7 @@ namespace CloudAPIs
             listItems.Add("Jimmy");
 
             // Create adapter
-            ArrayAdapter<string> adapter = new ArrayAdapter<string>(this, Android.Resource.Layout.SimpleListItem1, listItems);
+            ListViewAdapter adapter = new ListViewAdapter(this, listItems);
 
             myListView.Adapter = adapter;
            

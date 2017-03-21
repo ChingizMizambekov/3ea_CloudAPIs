@@ -60,8 +60,11 @@ namespace CloudAPIs
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050001
+			public const int MyListView = 2131034113;
+			
 			// aapt resource value: 0x7f050000
-			public const int MyListView = 2131034112;
+			public const int listview_row_name = 2131034112;
 			
 			static Id()
 			{
@@ -77,7 +80,10 @@ namespace CloudAPIs
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int Main = 2130903040;
+			public const int listview_row = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int Main = 2130903041;
 			
 			static Layout()
 			{
