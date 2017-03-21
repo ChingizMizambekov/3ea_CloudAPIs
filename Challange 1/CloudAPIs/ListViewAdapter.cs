@@ -12,15 +12,15 @@ using Android.Widget;
 
 namespace CloudAPIs
 {
-    class ListViewAdapter : BaseAdapter<string>
+    class ListViewAdapter : BaseAdapter<Person>
     {
         // Create List to containt list items and context
-        private List<string> _Items;
+        private List<Person> _Items;
         private Context _Context;
         
 
         // Constructor
-        public ListViewAdapter(Context context, List<string> items)
+        public ListViewAdapter(Context context, List<Person> items)
         {
             _Items = items;
             _Context = context;
@@ -39,7 +39,7 @@ namespace CloudAPIs
         }
 
         // Get item position index
-        public override string this[int position]
+        public override Person this[int position]
         {
             get { return _Items[position];  }
         }
@@ -53,8 +53,17 @@ namespace CloudAPIs
                 row = LayoutInflater.From(_Context).Inflate(Resource.Layout.listview_row, null, false);
             }
 
-            TextView name = row.FindViewById<TextView>(Resource.Id.listview_row_name);
-            name.Text = _Items[position];
+            TextView txtFirsname = row.FindViewById<TextView>(Resource.Id.txtFirstname);
+            txtFirsname.Text = _Items[position].FirstName;
+
+            TextView txtLastname = row.FindViewById<TextView>(Resource.Id.txtLastname);
+            txtLastname.Text = _Items[position].LastName;
+
+            TextView txtAge = row.FindViewById<TextView>(Resource.Id.txtAge);
+            txtAge.Text = Convert.ToString(_Items[position].Age);
+
+            TextView txtGender = row.FindViewById<TextView>(Resource.Id.txtGender);
+            txtGender.Text = _Items[position].Gender;
 
             return row;
         }

@@ -14,8 +14,11 @@ public final class R {
         public static final int icon=0x7f020000;
     }
     public static final class id {
-        public static final int MyListView=0x7f050001;
-        public static final int listview_row_name=0x7f050000;
+        public static final int MyListView=0x7f050004;
+        public static final int txtAge=0x7f050002;
+        public static final int txtFirstname=0x7f050000;
+        public static final int txtGender=0x7f050003;
+        public static final int txtLastname=0x7f050001;
     }
     public static final class layout {
         public static final int listview_row=0x7f030000;

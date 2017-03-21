@@ -9,7 +9,7 @@ namespace CloudAPIs
     public class MainActivity : Activity
     {
         // Create strings list
-        private List<string> listItems;
+        private List<Person> listItems;
 
         // Reference to the XAML listview
         private ListView myListView;
@@ -24,16 +24,16 @@ namespace CloudAPIs
             myListView = FindViewById<ListView>(Resource.Id.MyListView);
 
             // Populate the list
-            listItems = new List<string>();
-            listItems.Add("Bobby");
-            listItems.Add("Tommy");
-            listItems.Add("Jimmy");
+            listItems = new List<Person>();
+            listItems.Add(new CloudAPIs.Person() { FirstName = "Bobby", LastName = "Smith", Age = 23, Gender = "Male" });
+            listItems.Add(new CloudAPIs.Person() { FirstName = "Tommy", LastName = "McDonald", Age = 48, Gender = "Male" });
+            listItems.Add(new CloudAPIs.Person() { FirstName = "Erica", LastName = "Rubenstein", Age = 28, Gender = "Female" });
 
             // Create adapter
             ListViewAdapter adapter = new ListViewAdapter(this, listItems);
 
-            myListView.Adapter = adapter;
-           
+            // Set adapter
+            myListView.Adapter = adapter;          
 
         }
     }
