@@ -1,0 +1,4 @@
+CloudAPIs.MainActivity, CloudAPIs;md5aa090984913267de9a967e81add9e9c5.MainActivity
+CloudAPIs.MainActivity, CloudAPIs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5aa090984913267de9a967e81add9e9c5.MainActivity
+CloudAPIs.MainActivity;md5aa090984913267de9a967e81add9e9c5.MainActivity
+cloudapis.MainActivity;md5aa090984913267de9a967e81add9e9c5.MainActivity
