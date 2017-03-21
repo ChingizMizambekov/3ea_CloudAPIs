@@ -2,6 +2,7 @@
 using Android.Widget;
 using Android.OS;
 using System.Collections.Generic;
+using System;
 
 namespace CloudAPIs
 {
@@ -23,7 +24,7 @@ namespace CloudAPIs
             // Ref to the XAML ListView
             myListView = FindViewById<ListView>(Resource.Id.MyListView);
 
-            // Populate the list
+            // Populate the list with persons
             listItems = new List<Person>();
             listItems.Add(new CloudAPIs.Person() { FirstName = "Bobby", LastName = "Smith", Age = 23, Gender = "Male" });
             listItems.Add(new CloudAPIs.Person() { FirstName = "Tommy", LastName = "McDonald", Age = 48, Gender = "Male" });
@@ -33,8 +34,23 @@ namespace CloudAPIs
             ListViewAdapter adapter = new ListViewAdapter(this, listItems);
 
             // Set adapter
-            myListView.Adapter = adapter;          
+            myListView.Adapter = adapter;
 
+            // Add click listeners: multiple listeners posible with +=
+            myListView.ItemClick += myListView_ItemClick;
+            myListView.ItemLongClick += myListView_ItemLongClick;
+
+
+        }
+
+        private void myListView_ItemLongClick(object sender, AdapterView.ItemLongClickEventArgs e)
+        {
+            Console.WriteLine(listItems[e.Position].LastName);
+        }
+
+        private void myListView_ItemClick(object sender, AdapterView.ItemClickEventArgs e)
+        {
+            Console.WriteLine(listItems[e.Position].FirstName);
         }
     }
 }
