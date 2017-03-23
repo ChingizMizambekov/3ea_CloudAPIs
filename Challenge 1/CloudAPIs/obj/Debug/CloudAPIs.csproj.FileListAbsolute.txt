@@ -1,0 +1,84 @@
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\CloudAPIs.dll
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\CloudAPIs.pdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\CloudAPIs.CloudAPIs.apk
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\CloudAPIs.CloudAPIs-Signed.apk
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\CloudAPIs.csprojResolveAssemblyReference.cache
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\CloudAPIs.dll
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\CloudAPIs.pdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\android\bin\CloudAPIs.CloudAPIs.apk
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\res\layout\main.xml
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\res\values\strings.xml
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\res\drawable\icon.png
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\R.cs.flag
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\uploadflags.txt
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\mscorlib.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\System.Core.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\System.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\System.Xml.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\obj\Debug\CloudAPIs.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\CloudAPIs\CloudAPIs\bin\Debug\CloudAPIs.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\CloudAPIs.dll
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\CloudAPIs.pdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\CloudAPIs.CloudAPIs.apk
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\CloudAPIs.CloudAPIs-Signed.apk
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\CloudAPIs.dll
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\CloudAPIs.pdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\android\bin\CloudAPIs.CloudAPIs.apk
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\res\layout\main.xml
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\res\values\strings.xml
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\res\drawable\icon.png
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\R.cs.flag
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\uploadflags.txt
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\res\layout\listview_row.xml
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\CloudAPIs.csprojResolveAssemblyReference.cache
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\mscorlib.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\System.Core.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\System.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\System.Xml.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\res\layout\detailspage.xml
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\obj\Debug\CloudAPIs.dll.mdb
+C:\Users\Chingiz\OneDrive\FutuRe\2EA\CLOUD API's\XamarinAlliance\Challange 1\CloudAPIs\bin\Debug\CloudAPIs.dll.mdb

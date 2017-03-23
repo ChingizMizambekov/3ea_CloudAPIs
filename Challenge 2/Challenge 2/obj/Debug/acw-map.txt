@@ -1,0 +1,12 @@
+Challenge_2.FeedAdapter, Challenge 2;md5fc00510dbc0bedc40737e641e710120c.FeedAdapter
+Challenge_2.FeedAdapter, Challenge 2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fc00510dbc0bedc40737e641e710120c.FeedAdapter
+Challenge_2.FeedAdapter;md5fc00510dbc0bedc40737e641e710120c.FeedAdapter
+challenge_2.FeedAdapter;md5fc00510dbc0bedc40737e641e710120c.FeedAdapter
+Challenge_2.MainActivity, Challenge 2;md5fc00510dbc0bedc40737e641e710120c.MainActivity
+Challenge_2.MainActivity, Challenge 2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fc00510dbc0bedc40737e641e710120c.MainActivity
+Challenge_2.MainActivity;md5fc00510dbc0bedc40737e641e710120c.MainActivity
+challenge_2.MainActivity;md5fc00510dbc0bedc40737e641e710120c.MainActivity
+Challenge_2.WebActivity, Challenge 2;md5fc00510dbc0bedc40737e641e710120c.WebActivity
+Challenge_2.WebActivity, Challenge 2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fc00510dbc0bedc40737e641e710120c.WebActivity
+Challenge_2.WebActivity;md5fc00510dbc0bedc40737e641e710120c.WebActivity
+challenge_2.WebActivity;md5fc00510dbc0bedc40737e641e710120c.WebActivity
